@@ -1,0 +1,6 @@
+.bash_*
+.bashrc
+.vbox_version
+.vscode*
+.ssh
+.ansible
