@@ -1,0 +1,4 @@
+# informations de connexion à utiliser par ansible
+ansible_user: vagrant
+ansible_password: vagrant 
+ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
