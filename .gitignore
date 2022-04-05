@@ -4,3 +4,5 @@
 .vscode*
 .ssh
 .ansible
+.pki
+.gitconfig
